@@ -1,7 +1,7 @@
 ## Weekly Individual Project Update Report
 ### Group number:
 ### Student name:
-### Week: _(Give week number and also dates covered, where a week is Mon-Sun)_
+### Week: _(Give week number and also dates covered, where a week is Wed-Tues)_
 ___
 1. **How many hours did you spend on the project this week? (0-10)**
 
